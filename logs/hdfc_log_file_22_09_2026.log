@@ -1,0 +1,4 @@
+2026-09-22 17:13:57 | INFO | hdfc_api | method=GET path=/ client=127.0.0.1 status=200 duration_ms=42.39
+2026-09-22 17:14:03 | INFO | hdfc_api | method=GET path=/docs client=127.0.0.1 status=200 duration_ms=1.82
+2026-09-22 17:14:04 | INFO | hdfc_api | method=GET path=/openapi.json client=127.0.0.1 status=200 duration_ms=118.57
+2026-09-22 17:15:23 | INFO | hdfc_api | method=GET path=/ client=127.0.0.1 status=200 duration_ms=1.39
